@@ -1,0 +1,6 @@
+{
+  "name": "MD Aamer's Grow More App",
+  "description": "Stock Market Trading Strategies, Market Scanner, Watchlist, and Trading Journal by MD Aamer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
